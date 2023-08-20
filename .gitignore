@@ -1,0 +1,11 @@
+.idea/*
+.ipynb_checkpoints/*
+
+data/
+mal_token_retriever.py
+mal-calls.py
+
+*.pickle
+model*
+
+token.json
